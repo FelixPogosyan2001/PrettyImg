@@ -1,4 +1,4 @@
-# country-finder
+# PrettyImg
 
 > My astonishing Nuxt.js project
 
